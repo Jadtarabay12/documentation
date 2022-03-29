@@ -18,8 +18,8 @@ Odoo Partnership Agreement
 |  Odoo S.A., having its registered office at Chaussée de Namur, 40, 1367 Grand-Rosière,
 |  Belgium, and its affiliates (collectively referred to as “ODOO”)
 | AND:
-|  _____________________________________________, a company having its registered office at
-|  _____________________________________________________________________________________.
+|  __Crypted Security integration FZ-LLC_____, a company having its registered office at
+|  ___Office FDRK-2484, Al Jazirah Al Hamra, Rakez Business Zone FZ, Ras Al Khaimah___________.
 |  (hereinafter referred to as “PARTNER”)
 
 ODOO and PARTNER are individually referred to as a "Party" and collectively referred to as
@@ -353,7 +353,7 @@ found shall be finally settled by the Courts of Belgium in Nivelles.
     .. rubric:: Signatures
 
     +---------------------------------------+------------------------------------------+
-    | For ODOO,                             | For PARTNER                              |
+    | For ODOO,                             | For PARTNER - Crypted Security Integration |
     +---------------------------------------+------------------------------------------+
 
 
